@@ -1,0 +1,8 @@
+.header img{
+    height: 90px;
+}
+.header{
+    text-align: center;
+    background-color: rgb(160, 207, 40);
+    border-bottom: 1px solid rgb(146, 145, 145);
+}
